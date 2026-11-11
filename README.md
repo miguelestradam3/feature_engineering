@@ -46,10 +46,3 @@ To enhance predictive power, two new features were engineered:
 * **Feature Engineering Impact:** Combining raw averages into holistic metrics like total production and efficiency yields stronger predictive indicators.
 * **Model Readiness:** The extracted dataset is fully cleaned, transformed, and decoupled of redundant features, making it ready for ingestion into classification models.
 * **Next Steps:** Proceed to model training, hyperparameter tuning, and performance evaluation to deliver actionable player retention insights to NBA managers and coaches.
-
----
-## **Repository Structure**
-* `Exemplar_Perform feature engineering.ipynb`: Interactive Jupyter notebook containing step-by-step instructions.
-* `nba_feature_engineering_solved.ipynb`: Fully solved and commented Jupyter notebook solution.
-* `nba-players.csv`: Raw input dataset.
-* `extracted_nba_players_data.csv`: Output engineered dataset ready for modeling.
